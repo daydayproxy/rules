@@ -2,10 +2,12 @@
 DOMAIN,clash.razord.top
 
 # > auVPN
-DOMAIN-SUFFIX,inforun.work
-DOMAIN-SUFFIX,aufast.co
+DOMAIN-SUFFIX,auspeed.xyz
 DOMAIN-SUFFIX,ausvc.link
-DOMAIN-SUFFIX,icoremail.mobi
+DOMAIN-SUFFIX,t5.work
+DOMAIN-SUFFIX,inforun.work
+DOMAIN-SUFFIX,payssion.com
+DOMAIN-SUFFIX,yuansfer.com
 
 # > Dler Cloud
 DOMAIN-SUFFIX,dler.cloud
